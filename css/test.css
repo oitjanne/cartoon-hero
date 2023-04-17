@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+h1{ font-size: 30px; color: #64C994;
+}
+
+h2{ font-size: 20px; color: PaleVioletRed;
+}
+
+.big{
+   font-size: 60px; 
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: aqua;
+}
+
+h1 span{
+    color: blueviolet;
+}
+
+        
